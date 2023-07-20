@@ -60,6 +60,7 @@ body {
 }
 
 .quote-box span::before {
+    position: absolute;
     content: '';
     width: 20px;
     height: 2px;
